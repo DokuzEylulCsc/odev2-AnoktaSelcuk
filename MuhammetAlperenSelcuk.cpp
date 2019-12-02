@@ -155,3 +155,4 @@ int digit(char c){
     }
     return value;
 }
+// kaynakca geeksforgeeks.org
